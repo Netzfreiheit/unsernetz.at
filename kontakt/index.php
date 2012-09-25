@@ -17,7 +17,7 @@
 <p>Wir bearbeiten eingehende Anfragen in der Regel innerhalb von Minuten oder Stunden.</p>
 
 
-<h3>Offenlegung gem. Mediengesetz §25</h3>
+<h3>Offenlegung gem. Mediengesetz &sect;</h3>
 
 <h4>Verantwortlicher Betreiber</h4>
 <p><a href="https://netzfreiheit.org">Initiative f&uuml;r Netzfreiheit</a></p>
