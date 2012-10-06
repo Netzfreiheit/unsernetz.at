@@ -4,6 +4,7 @@
     <script type='text/javascript' src='libs/jquery-1.8.2.min.js' ></script>
     <script type='text/javascript' src='libs/jquery-jvectormap-1.1.min.js' ></script>
     <script type='text/javascript' src='libs/jquery-jvectormap-europe-mill-en.js ' ></script>
+    <script type='text/javascript' src='libs/iso_3166_country_names_de.js ' ></script>
 
 
     <script type='text/javascript'>
@@ -18,7 +19,15 @@
             , '6': '#00CC00'
             , '7': 'olive'
           }
-
+          , messages = {
+              '1': 'Cluster 1: Gesetzte gegen Netzneutralit&auml;t'
+            , '2': 'Cluster 2a: keine Gesetze, aber &ouml;ffentlicher Diskurs'
+            , '3': 'Cluster 2b: keine Gesetze, aber &ouml;ffentlicher Diskurs'
+            , '4': 'Cluster 2c: keine Gesetze, aber &ouml;ffentlicher Diskurs'
+            , '5': 'Cluster 2d: Weder Gesetzte noch Diskurs'
+            , '6': 'Cluster 3: Gesetzte f&uuml;r Netzneutralit&auml;t'
+            , '7': 'Cluster 4: Verweigern Regelung. Guter Netzausbau und lebendiger Providermarkt'
+          }
         ;
 
         $('#map').vectorMap(
@@ -33,10 +42,16 @@
             }]
           }
           
-          , onLabelShow: function(e, el, code) {
-            el.html(el.html()+' (GDP - '+data[code]+')');
+          , onRegionLabelShow: function(e, el, code) {
+            if (data[code]) {
+              el.html(window['iso'].iso_3166_country_names_de[code] + ' ' + messages[data[code]]);
+              $('.jvectormap-label').css('zIndex', 999);
+            } else {
+              $('.jvectormap-label').css('zIndex', -1);
+            }
           }
         });
+
       });
     </script>
 
