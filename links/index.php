@@ -19,12 +19,16 @@
 	<li><a href="/links/eu-lex-map/"><strong>Karte der rechtlichen Situation zu Netzneutralit&auml;t in der Europ&auml;ischen Union</strong></a></li>
 	<li><a href="https://netarchitecture.org/"><strong>Barbara van Schewick. 2010. Internet Architecture and Innovation. MIT Press. </strong></a></li>
 	<li><a href="http://echtesnetz.de/"><strong>Echtes Netz</strong></a> - Die Kampagne der Digitalen Gesellschaft f&uuml;r Netzneutralit&auml;t in Deutschland.</li>
+	<li><a href="http://respectmynet.eu/"><strong>Meldestelle f&uuml;r Verst&ouml;&szlig;e gegen die Netzneutralit&auml;t</strong></a></li>
 	<li><a href="http://pro-netzneutralitaet.de/"><strong>Initiative Pro-Netzneutralit&auml;t</strong></a> - Eine weitere Initiative f&uuml;r Netzneutralit&auml;t.</li>
 	<li><a href="http://www.vzbv.de/mediapics/netzneutralitaet_tacd_resolution_04_2010.pdf"><strong>Resolution zur Netzneutralit&auml;t des Trans Atlantischen Konsumer Dialoges</strong></a></li>
 	<li><a href="http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t"><strong>Wikipedia-Artikel</strong></a> zu Netzneutralit&auml;t in deutscher Sprache.</li>
 	<li><a href="http://derstandard.at/1297818927530/Telekom-Austria-Wir-besitzen-die-Infrastruktur-Wir-bestimmen-Punkt"><strong>Ametsreiter (CEO von A1) zu Netzneutralit&auml;t</strong></a> - Artikel auf derstandard.at</li>
 	<li><a href="http://futurezone.at/tag/148-netzneutralitaet.php"><strong>futurezone.at</strong></a> - Artikelsammlung</li>
 	<li><a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
+	<li>Radiosendung: <a href="http://www.fro.at/article.php?id=5354"><strong>Netzneutralit&auml;t: Sind alle Bits gleich?</strong></a> mit Tassilo Pellegrini</li>
+
+	
 	
 </ul>
 			
