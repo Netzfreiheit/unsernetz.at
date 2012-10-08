@@ -20,12 +20,12 @@
             , '7': 'olive'
           }
           , messages = {
-              '1': 'Cluster 1: Gesetzte gegen Netzneutralit&auml;t'
+              '1': 'Cluster 1: Gesetze gegen Netzneutralit&auml;t'
             , '2': 'Cluster 2a: keine Gesetze, aber &ouml;ffentlicher Diskurs'
             , '3': 'Cluster 2b: keine Gesetze, aber &ouml;ffentlicher Diskurs'
             , '4': 'Cluster 2c: keine Gesetze, aber &ouml;ffentlicher Diskurs'
-            , '5': 'Cluster 2d: Weder Gesetzte noch Diskurs'
-            , '6': 'Cluster 3: Gesetzte f&uuml;r Netzneutralit&auml;t'
+            , '5': 'Cluster 2d: Weder Gesetze noch Diskurs'
+            , '6': 'Cluster 3: Gesetze f&uuml;r Netzneutralit&auml;t'
             , '7': 'Cluster 4: Verweigern Regelung. Guter Netzausbau und lebendiger Providermarkt'
           }
         ;
@@ -73,7 +73,7 @@
 	</style>
     <ul class="legende">
       <li><span style="display:inline-block; width:12px; height:12px; background-color: #ee0000;"></span> rote L&auml;nder besitzen gesetzliche Regelungen gegen Netzneutralit&auml;t. Meist sind das Sperren von Internet-Anschl&uuml;ssen aufgrund von Urheberrechtsverletzungen.</li>
-      <li><span style="display:inline-block; width:12px; height:12px; background-color: #00CC00;"></span> gr&uuml;ne L&auml;nder besitzen Gesetzte zum Schutz der Netzneutralit&auml;t. Das Belgische Gesetz gilt allerdings nur f&uuml;r den Wallonischen Teil des Landes.</li>
+      <li><span style="display:inline-block; width:12px; height:12px; background-color: #00CC00;"></span> gr&uuml;ne L&auml;nder besitzen Gesetze zum Schutz der Netzneutralit&auml;t. Das Belgische Gesetz gilt allerdings nur f&uuml;r den Wallonischen Teil des Landes.</li>
       <li><span style="display:inline-block; width:12px; height:12px; background-color: yellow;"></span> gelbe L&auml;nder haben einen Diskurs &uuml;ber das Thema Netzneutralit&auml;t. Diese Diskussion hat in Teilen auch schon zu einem laufenden Gesetzgebungsprozess gef&uuml;hrt, der jedoch noch nicht abgeschlossen ist.</li>
     </ul><ul class="legende">
       <li><span style="display:inline-block; width:12px; height:12px; background-color: orange;"></span> orangene L&auml;nder haben weder Gesetze noch einen Diskurs oder ein Gesetzgebungsprozess.</li>
