@@ -9,7 +9,7 @@
 
     <script type='text/javascript'>
       $(function () {
-        var data = {"GB":1,"FR":1,"DK":2,"MT":2,"RO":2,"SE":2,"IE":2,"PL":2,"DE":2,"IT":3,"AT":3,"PT":3,"ES":1,"GR":5,"CY":5,"SK":5,"SI":6,"CZ":5,"HU":5,"BG":5,"NL":6,"BE":1,"LU":6,"FI":7,"EE":7,"LV":7,"LT":7}
+        var data = {"GB":1,"FR":1,"DK":2,"MT":2,"RO":2,"SE":2,"IE":2,"PL":2,"DE":2,"IT":3,"AT":3,"PT":3,"ES":1,"GR":5,"CY":5,"SK":5,"SI":6,"CZ":5,"HU":5,"BG":5,"NL":6,"BE":1,"LU":5,"FI":7,"EE":7,"LV":7,"LT":7}
           , colors = {
               '1': '#ee0000'
             , '2': 'yellow'
