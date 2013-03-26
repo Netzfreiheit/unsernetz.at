@@ -41,6 +41,7 @@ img {
 	background-position:center top;
 	background-size: 100%;
 	min-width: 980px;
+	top:0;
 }
 
 
@@ -64,15 +65,15 @@ img {
 #wrapper {
 	width:980px;
 	box-shadow: rgba(0,0,0,0.17) 0 0 4em;
-	position: absolute;
 	z-index:2;
-	margin-left: -490px;
-	left:50%;
-	margin-top:5em;
+	position:relative;
 	margin-bottom:3em;	
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #header-wrapper {
+	margin-top:5em;
 	background-color: rgba(255,255,255,0.8);
 	padding-bottom:16px;
 }
