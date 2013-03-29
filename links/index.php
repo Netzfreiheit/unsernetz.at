@@ -13,6 +13,7 @@
 <ul class="nolist">
 	
 	<li><a href="/files/Positionspapier.pdf"><strong>Positionspapier: Netzneutralit&auml;t in &Ouml;sterreich</strong></a></li>
+	<li><a href="https://digitalegesellschaft.de/wp-content/uploads/2012/12/DG_Handbuch_NN.pdf"><strong>Handbuch Netzneutralit&auml;t</strong> der Digitalen Gesellschaft</a></li>
 	<li><a href="http://www.netzkinder.at/netzneutralitat-uber-die-unteilbarkeit-des-internets/"><strong>Vortrag: zur Netzneutralit&auml;t und dieser Kampagne</strong></a> von Thomas Lohninger auf der #DNP12 Konferenz</li>
 	<li><a href="http://www.fhstp.ac.at/forschung/institute_bereiche/institutfuermedienwirtschaft/aktuelles/news/12/aktuelle-neuerscheinung-netzneutralitaet-und-netzbewirtschaftung"><strong>Buch: "Netzneutralit&auml;t und Netzbewirtschaftung"</strong></a> von Prof. (FH) Mag. Dr. Tassilo Pellegrini u. Prof. (FH) Dr. Jan Krone</li>
 	<li><a href="https://unsernetz.at/files/Steckbrief_Netzneutralitaet_Pellegrini.pdf"><strong>Steckbrief: Netzneutralit&auml;t</strong></a> von Tassilo Pellegrini</li>
