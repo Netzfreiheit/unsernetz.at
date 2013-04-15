@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=ansi x 3.4">
 	<title>Unser Netz - Netzneutralit&auml;t</title>
-	<link rel="icon" type="image/png" href="images/favicon.png" />
+	<link rel="icon" type="image/png" href="/favicon.ico" />
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
 
 </head>
