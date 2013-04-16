@@ -8,7 +8,7 @@
 		</div>
 
 		<div class="inset">
-		<h3>Kontakt und Ipressum</h3>
+		<h3>Kontakt und Impressum</h3>
 
 <p><strong>Diese Webseite ist ein Projekt des Vereins <a href="netzfreiheit.org">Initiative f&uuml;r Netzfreiheit</a> und ist in Kooperation mit <a href="https://vibe.at">VIBE!AT</a> und <a href="http://gooutsidewien.wordpress.com/">Go Outside Wien</a> entstanden.</strong></p>
 
