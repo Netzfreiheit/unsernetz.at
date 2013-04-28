@@ -27,7 +27,7 @@
 						}
 
 						</script>
-						<form action="https://lists.netzaktivismus.at/subscribe/netneutrality/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
+						<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
 			
 			
 		</div>
