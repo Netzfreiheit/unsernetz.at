@@ -13,6 +13,7 @@
 <ul class="nolist">
 	
 	<li><a href="/files/Positionspapier.pdf"><strong>Positionspapier: Netzneutralit&auml;t in &Ouml;sterreich</strong></a></li>
+	<li><a href="/files/PositionspapierRTR.pdf"><strong>Stellungnahme auf das Positionspapier der RTR zur Netzneutralit&auml;t</strong></a></li>
 	<li><a href="/files/Synopsis_CL_NL_SL.pdf"><strong>Synopse der Gesetzte zur Netzneutralit&auml;t in Chile, den Niederlanden und Slowenien</strong></a></li>
 	<li><a href="https://digitalegesellschaft.de/wp-content/uploads/2012/12/DG_Handbuch_NN.pdf"><strong>Handbuch Netzneutralit&auml;t</strong> der Digitalen Gesellschaft</a></li>
 	<li><a href="http://www.netzkinder.at/netzneutralitat-uber-die-unteilbarkeit-des-internets/"><strong>Vortrag: zur Netzneutralit&auml;t und dieser Kampagne</strong></a> von Thomas Lohninger auf der #DNP12 Konferenz</li>
