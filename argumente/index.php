@@ -3,8 +3,8 @@
 
 
 		<div id="spoiler" class="inset">
-			<p style="font-weight:bold;">Der Grundgedanke des Internets ist die freie, unzensierte und gleichberechtigte Kommunikation.</p>
-			<p>Netzneutralit&auml;t garantiert die Freiheit des Internets, Innovationskraft, Meinungsfreiheit und Chancengleichheit.</p>
+			<p style="font-weight:bold;">Wieso ist Netzneutralit&auml;t wichtig? Gibt es Gegenargumente?</p>
+			<p>Haben wir ein Argument gegen Netzneutralit&auml;t vergessen? Schreibt uns eine <a href="mailto:info@unsernetz.at">Mail</a> und wir erg&auml;nzen die Liste!</p>
 		</div>
 
 		<div class="inset">
