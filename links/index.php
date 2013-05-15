@@ -9,6 +9,13 @@
 
 		<div class="inset">
 
+	<h3>Videos</h3>
+		<ul class="nolist">
+			<li><a href="https://www.youtube.com/watch?v=XvYF8_hGgtc"><strong>WHAT IF? Net Neutrality / Netzneutralit&auml;t</strong></a></li>
+			<li><a href="https://www.youtube.com/watch?v=bNw_2SSiVtE"><strong>ZDF: &Uml;bermorgenTV: Netzneutralit&auml;t</strong></a></li>
+			<li><a href="https://www.youtube.com/watch?v=9bO9HERM57U"><strong>Kindernachrichten LOGO erkl&auml;ren Netzneutralit&auml;t</strong></a></li>
+		</ul>	
+
 	<h3>B&uuml;cher &amp; Brosch&uuml;ren</h3>		
 		<ul class="nolist">
 			<li><a href="https://netarchitecture.org/"><strong>Barbara van Schewick. 2010. Internet Architecture and Innovation. MIT Press. </strong></a></li>
@@ -17,11 +24,10 @@
 			<li><a href="https://digitalegesellschaft.de/wp-content/uploads/2012/12/DG_Handbuch_NN.pdf"><strong>Handbuch Netzneutralit&auml;t</strong> der Digitalen Gesellschaft</a></li>
 		</ul>
 				
-
 		<h3>Vortr&auml;ge</h3>
 			<ul class="nolist">
 				<li><a href="http://www.netzkinder.at/netzneutralitat-uber-die-unteilbarkeit-des-internets/"><strong>Vortrag: zur Netzneutralit&auml;t und dieser Kampagne</strong></a> von Thomas Lohninger auf der #DNP12 Konferenz</li>
-				<li></li>
+				<li><a href="https://www.youtube.com/watch?v=MQAK38KCjfY"><strong>re:publica 2013: Net Neutrality</strong></a> - Ben Scott, Hannah Seiffert, Markus Beckedahl</li>
 			</ul>	
 
 		<h3>Policy Paper</h3>
@@ -47,7 +53,9 @@
 				<li><a href="http://echtesnetz.de/"><strong>Echtes Netz</strong></a> - Die Kampagne der Digitalen Gesellschaft f&uuml;r Netzneutralit&auml;t in Deutschland.</li>
 				<li><a href="http://respectmynet.eu/"><strong>Meldestelle f&uuml;r Verst&ouml;&szlig;e gegen die Netzneutralit&auml;t</strong></a></li>
 				<li><a href="http://pro-netzneutralitaet.de/"><strong>Initiative Pro-Netzneutralit&auml;t</strong></a> - Eine weitere Initiative f&uuml;r Netzneutralit&auml;t.</li>
-				<li><a href="http://www.measurementlab.net/"><strong>Measurement Lab</strong></a> (Datenpool zur Netzneutralität)</li>
+				<li><a href="http://www.measurementlab.net/"><strong>Measurement Lab</strong></a> (Datenpool zur Netzneutralit&auml;t)</li>
+				<li><a href="http://www.savetheinternet.com/sti-home"><strong>Save the Internet</strong></a> Kampagne aus den USA</li>
+				
 			</ul>	
 
 		<h3>Medienberichte</h3>
@@ -58,7 +66,6 @@
 				<li><a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
 				<li>Radiosendung: <a href="http://www.fro.at/article.php?id=5354"><strong>Netzneutralit&auml;t: Sind alle Bits gleich?</strong></a> mit Tassilo Pellegrini</li>
 			</ul>	
-
 
 		</div>
 <?php include('../includes/footer.php'); ?>
