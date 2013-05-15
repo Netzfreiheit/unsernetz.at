@@ -3,19 +3,41 @@
 
 
 		<div id="spoiler" class="inset">
-			<p style="font-weight:bold;">Der Grundgedanke des Internets ist die freie, unzensierte und gleichberechtigte Kommunikation.</p>
-			<p>Netzneutralit&auml;t garantiert die Freiheit des Internets, Innovationskraft, Meinungsfreiheit und Chancengleichheit.</p>
+			<p style="font-weight:bold;">Fragen, Anregungen oder Kooperationsangebote?</p>
+			<p>Wir freuen uns &uuml;ber Kontaktaufnahmen und Kooperationen.</p>
 		</div>
 
 		<div class="inset">
+
+      <h3>Setze dich jetzt f&uuml;r Netzneutralit&auml;t ein!</h3>
+      
+            <p>Mailingliste abonnieren:</p>
+    
+            <script type="text/javascript">
+            <!-- input-text-delete  -->
+
+            function clickclear(thisfield, defaulttext) {
+              if (thisfield.value == defaulttext) {
+                  thisfield.value = "";
+              }
+            }
+            function clickrecall(thisfield, defaulttext) {
+              if (thisfield.value == "") {
+                thisfield.value = defaulttext;
+              }
+            }
+
+            </script>
+            
+            <form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
+
+
+
 		<h3>Kontakt und Impressum</h3>
 
-<p><strong>Diese Webseite ist ein Projekt des Vereins <a href="netzfreiheit.org">Initiative f&uuml;r Netzfreiheit</a> und ist in Kooperation mit <a href="https://vibe.at">VIBE!AT</a> und <a href="http://gooutsidewien.wordpress.com/">Go Outside Wien</a> entstanden.</strong></p>
+<p>F&uuml;r Fragen zum Thema Netzneutralit&auml;t schreiben Sie bitte eine E-Mail an: <a href="mailto:info@unsernetz.at">info@unsernetz.at</a></p>
 
-<p>F&uuml;r Fragen zum Thema Netzneutralit&auml;t schreiben Sie bitte eine E-Mail an:</p>
-<a href="mailto:info@unsernetz.at">info@unsernetz.at</a>
-<p>Wir bearbeiten eingehende Anfragen in der Regel innerhalb von Minuten oder Stunden.</p>
-
+<p>Diese Webseite ist ein Projekt des Vereins <a href="netzfreiheit.org">Initiative f&uuml;r Netzfreiheit</a> und ist in Kooperation mit <a href="https://vibe.at">VIBE!AT</a> und <a href="http://gooutsidewien.wordpress.com/">Go Outside Wien</a> entstanden.</p>
 
 <h3>Offenlegung gem. Mediengesetz &sect;</h3>
 
@@ -35,7 +57,5 @@
 <p>Diese Seite wirbt f&uuml;r die Verankerung der Netzneutralit&auml;t im &ouml;sterreichischen Gesetz.</p>
 
 
-			
-			
 		</div>
 <?php include('../includes/footer.php'); ?>
