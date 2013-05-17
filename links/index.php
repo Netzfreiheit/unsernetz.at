@@ -60,7 +60,11 @@
 
 		<h3>Medienberichte</h3>
 			<ul class="nolist">
-				<li><a href="http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t"><strong>Wikipedia-Artikel</strong></a> zu Netzneutralit&auml;t in deutscher Sprache.</li>
+				<!--<li><a href=""><strong></strong></a></li>-->
+				<li><a href="http://oe1.orf.at/programm/337279"><strong>Einordnung des RTR Positionspapiers </strong></a> &Ouml;1 Digital Leben (15. Mai 2013)</li>
+				<li><a href="http://derstandard.at/1363709940095/Fall-Drosselkom-Provider-wollen-Netzneutralitaet-abschaffen"><strong>Fall Drosselkom: "Provider wollen Netzneutralit&auml;t abschaffen"</strong></a> Gastkommentar auf derStandard.at (3. Mai 2013)</li>
+				<li><a href="https://netzpolitik.org/2013/vergleich-verschiedener-netzneutralitatsgesetze/"><strong>Vergleich verschiedener Netzneutralit&auml;tsgesetze</strong></a> Artikel auf Netzpolitik.org (26. April 2013)</li>
+				<li><a href="http://oe1.orf.at/programm/328264"><strong>Gleiches Recht f&uuml;r alle. Die Netzneutralit&auml;t und ihre Bedeutung</strong></a> &Ouml;1 Digital Leben (11. Februar 2013)</li>
 				<li><a href="http://derstandard.at/1297818927530/Telekom-Austria-Wir-besitzen-die-Infrastruktur-Wir-bestimmen-Punkt"><strong>Ametsreiter (CEO von A1) zu Netzneutralit&auml;t</strong></a> - Artikel auf derstandard.at</li>
 				<li><a href="http://futurezone.at/tag/148-netzneutralitaet.php"><strong>futurezone.at</strong></a> - Artikelsammlung</li>
 				<li><a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
