@@ -61,18 +61,18 @@
 		<h3>Medienberichte</h3>
 			<ul class="nolist">
 				<!--<li><a href=""><strong></strong></a></li>-->
-				<!--<li><a href=""><strong></strong></a> in Futurezone (21. Mai 2013)</li>-->
+				<li>Online: <a href="http://futurezone.at/netzpolitik/15944-internet-drosselungen-bald-auch-in-oesterreich.php"><strong>Internet-Drosselungen bald auch in Österreich?</strong></a> in Futurezone (21. Mai 2013)</li>
 				<li>Radio: <a href="http://oe1.orf.at/programm/337591"><strong>Zwei-Klassen-Internet auch in Österreich möglich </strong></a> in Ö1 Help (18. Mai 2013) <a href="http://socialhack.eu/uploads/media-archive/OE1_HEL130518_HP.mp3">mp3 hier</a> </li>
 				<li>Radio: <a href="http://oe1.orf.at/programm/337583"><strong>Zwei-Klassen-Internet auch in Österreich möglich </strong></a> in Ö1 Morgenjournal (18. Mai 2013) <a href="http://socialhack.eu/uploads/media-archive/oe1_journal_drosselkom_2013-05-18.mp3">mp3 hier</a> </li>
 				<li>Online: <a href="http://help.orf.at/stories/1717952/"><strong>Zwei-Klassen-Internet auch in Österreich möglich</strong></a> in Help auf orf.at (18. Mai 2013)</li>
-				<li><a href="http://oe1.orf.at/programm/337279"><strong>Einordnung des RTR Positionspapiers </strong></a> &Ouml;1 Digital Leben (15. Mai 2013)</li>
-				<li><a href="http://derstandard.at/1363709940095/Fall-Drosselkom-Provider-wollen-Netzneutralitaet-abschaffen"><strong>Fall Drosselkom: "Provider wollen Netzneutralit&auml;t abschaffen"</strong></a> Gastkommentar auf derStandard.at (3. Mai 2013)</li>
-				<li><a href="https://netzpolitik.org/2013/vergleich-verschiedener-netzneutralitatsgesetze/"><strong>Vergleich verschiedener Netzneutralit&auml;tsgesetze</strong></a> Artikel auf Netzpolitik.org (26. April 2013)</li>
-				<li><a href="http://oe1.orf.at/programm/328264"><strong>Gleiches Recht f&uuml;r alle. Die Netzneutralit&auml;t und ihre Bedeutung</strong></a> &Ouml;1 Digital Leben (11. Februar 2013)</li>
-				<li><a href="http://derstandard.at/1297818927530/Telekom-Austria-Wir-besitzen-die-Infrastruktur-Wir-bestimmen-Punkt"><strong>Ametsreiter (CEO von A1) zu Netzneutralit&auml;t</strong></a> - Artikel auf derstandard.at</li>
-				<li><a href="http://futurezone.at/tag/148-netzneutralitaet.php"><strong>futurezone.at</strong></a> - Artikelsammlung</li>
-				<li><a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
-				<li>Radiosendung: <a href="http://www.fro.at/article.php?id=5354"><strong>Netzneutralit&auml;t: Sind alle Bits gleich?</strong></a> mit Tassilo Pellegrini</li>
+				<li>Radio: <a href="http://oe1.orf.at/programm/337279"><strong>Einordnung des RTR Positionspapiers </strong></a> &Ouml;1 Digital Leben (15. Mai 2013)</li>
+				<li>Online: <a href="http://derstandard.at/1363709940095/Fall-Drosselkom-Provider-wollen-Netzneutralitaet-abschaffen"><strong>Fall Drosselkom: "Provider wollen Netzneutralit&auml;t abschaffen"</strong></a> Gastkommentar auf derStandard.at (3. Mai 2013)</li>
+				<li>Online: <a href="https://netzpolitik.org/2013/vergleich-verschiedener-netzneutralitatsgesetze/"><strong>Vergleich verschiedener Netzneutralit&auml;tsgesetze</strong></a> Artikel auf Netzpolitik.org (26. April 2013)</li>
+				<li>Radio: <a href="http://oe1.orf.at/programm/328264"><strong>Gleiches Recht f&uuml;r alle. Die Netzneutralit&auml;t und ihre Bedeutung</strong></a> &Ouml;1 Digital Leben (11. Februar 2013) <a href="http://socialhack.eu/uploads/media-archive/2013-02-11Digital%20Leben%20(11.02.2013).MP3">mp3 hier</a></li>
+				<li>Online: <a href="http://derstandard.at/1297818927530/Telekom-Austria-Wir-besitzen-die-Infrastruktur-Wir-bestimmen-Punkt"><strong>Ametsreiter (CEO von A1) zu Netzneutralit&auml;t</strong></a> - Artikel auf derstandard.at</li>
+				<li>Online: <a href="http://futurezone.at/tag/148-netzneutralitaet.php"><strong>futurezone.at</strong></a> - Artikelsammlung</li>
+				<li>Online: <a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
+				<li>Radio: <a href="http://www.fro.at/article.php?id=5354"><strong>Netzneutralit&auml;t: Sind alle Bits gleich?</strong></a> mit Tassilo Pellegrini</li>
 			</ul>	
 
 		</div>
