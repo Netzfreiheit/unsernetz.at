@@ -8,8 +8,12 @@
 		</div>
 
 		<div class="inset">
-		
 			<h3>Netzneutralit&auml;t bedeutet ...</h3>
+
+			<iframe width="919" height="517" src="http://www.youtube.com/embed/XvYF8_hGgtc" frameborder="0" allowfullscreen></iframe>
+
+			<h3>Wir fordern ...</h3>
+			
 			<ul class="definition ">
 				<li><a href="netzneutralitaet/#gleichbehandlung" class="box_gleichbehandlung">Gleichbehandlung</a></li>
 				<li><a href="netzneutralitaet/#teilhabe" class="box_teilhabe">Teilhabe</a></li>
