@@ -10,7 +10,20 @@
 		<div class="inset">
 			<h3>Netzneutralit&auml;t bedeutet ...</h3>
 
-			<iframe width="919" height="517" src="http://www.youtube.com/embed/XvYF8_hGgtc" frameborder="0" allowfullscreen></iframe>
+			<table width="100%">
+				<tr>
+					<td>
+						<iframe width="650" height="366" src="http://www.youtube.com/embed/XvYF8_hGgtc" frameborder="0" allowfullscreen></iframe>
+					</td>
+					<td>
+							<a class="twitter-timeline" href="https://twitter.com/unsernetz" data-widget-id="343899980592975872">Tweets von @unsernetz</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+							<p>Mailingliste abonnieren:</p>
+								<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
+					</td>
+				</tr>
+			</table>
 
 			<h3>Wir fordern ...</h3>
 			
@@ -34,7 +47,9 @@
 				<h3 style="margin-top:0;">Mach mit!</h3>
 				
 						<p>Mailingliste abonnieren:</p>
-		
+						<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
+			</div>
+
 						<script type="text/javascript">
 						<!-- input-text-delete  -->
 
@@ -50,11 +65,6 @@
 						}
 
 						</script>
-						<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
-			
-			
-			</div>	
-
 
 
 			<div class="clear"></div>
