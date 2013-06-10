@@ -16,11 +16,12 @@
 						<iframe width="650" height="366" src="http://www.youtube.com/embed/XvYF8_hGgtc" frameborder="0" allowfullscreen></iframe>
 					</td>
 					<td>
-							<a class="twitter-timeline" href="https://twitter.com/unsernetz" data-widget-id="343899980592975872">Tweets von @unsernetz</a>
+							<a class="twitter-timeline" href="https://twitter.com/unsernetz" data-widget-id="343908350221766656">Tweets von @unsernetz</a>
 							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-							<p>Mailingliste abonnieren:</p>
-								<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
+							<h3 style="margin-top: 10px; margin-bottom:5px;">Mach mit!</h3>
+							<p style="margin-top: 0px; margin-bottom:5px;">Mailingliste abonnieren:</p>
+								<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" placeholder="E-Mail Adresse" type="text"> <input name="email-button" value="Abonnieren" type="Submit"></form>
 					</td>
 				</tr>
 			</table>
@@ -42,30 +43,6 @@
 				Die Offenheit und Neutralit&auml;t des Internets ist ein Erfolgsrezept und darf nicht dem Gewinnstreben einzelner Firmen zum Opfer fallen.</p>
 				<a href="/argumente" class="button">&raquo; Argumente f&uuml;r Netzneutralit&auml;t</a>
 			</div>	
-
-			<div style="width:30%; min-height:10em; padding-left: 3%; float:right; border-left: rgba(0,0,0,0.4) 1px solid;">
-				<h3 style="margin-top:0;">Mach mit!</h3>
-				
-						<p>Mailingliste abonnieren:</p>
-						<form action="https://lists.netzaktivismus.at/subscribe/netzneutralitaet/" method="post"><input name="email" value="Deine E-Mail Adresse" type="text" onclick="clickclear(this, 'Deine E-Mail Adresse')" onblur="clickrecall(this,'Deine E-Mail Adresse')"> <input name="email-button" value="Abonnieren" type="Submit"></form>
-			</div>
-
-						<script type="text/javascript">
-						<!-- input-text-delete  -->
-
-						function clickclear(thisfield, defaulttext) {
-							if (thisfield.value == defaulttext) {
-									thisfield.value = "";
-							}
-						}
-						function clickrecall(thisfield, defaulttext) {
-							if (thisfield.value == "") {
-								thisfield.value = defaulttext;
-							}
-						}
-
-						</script>
-
 
 			<div class="clear"></div>
 
