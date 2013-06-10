@@ -46,7 +46,7 @@
 
 			<div style="width:30%; min-height:10em; padding-left: 3%; float:right; border-left: rgba(0,0,0,0.4) 1px solid; text-align: right;">
 				<div style="background-image: url(/images/unsernetz_logo_empty.png);  background-repeat: no-repeat; width: 281px; height: 136px;">
-					<p id="teaserbox" style="color: #696969; padding: 15px;">
+					<p id="teaserbox" style="color: #696969; padding: 15px; font-size: 0.9em;">
 					</p>
 				</div>
 				<a id="teasertweet">
