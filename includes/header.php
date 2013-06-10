@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=ansi x 3.4">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" charset="utf-8">
 	<title>Unser Netz - Netzneutralit&auml;t</title>
 	<link rel="icon" type="image/png" href="/favicon.ico" />
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
-
+	<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/js/teasers.js"></script>
 </head>
 
 <body>
