@@ -38,6 +38,7 @@
 				<li><a href="/files/Synopsis_CL_NL_SL.pdf"><strong>Synopse der Gesetzte zur Netzneutralit&auml;t in Chile, den Niederlanden und Slowenien</strong></a></li>
 				<li><a href="https://unsernetz.at/files/Steckbrief_Netzneutralitaet_Pellegrini.pdf"><strong>Steckbrief: Netzneutralit&auml;t</strong></a> von Tassilo Pellegrini</li>
 				<li><a href="http://www.vzbv.de/mediapics/netzneutralitaet_tacd_resolution_04_2010.pdf"><strong>Resolution zur Netzneutralit&auml;t des Trans Atlantischen Konsumer Dialoges</strong></a></li>
+				<li><a href="http://berec.europa.eu/files/document_register_store/2012/12/BoR_%2812%29_146_Summary_of_BEREC_positions_on_net_neutrality2.pdf"><strong>Summary of BEREC positions on net neutrality</strong></a></li>
 				<li></li>
 			</ul>	
 
@@ -61,6 +62,7 @@
 		<h3>Medienberichte</h3>
 			<ul class="nolist">
 				<!--<li><a href=""><strong></strong></a></li>-->
+				<li>Podcast: <a href="http://www.net-politics.eu/2013/06/net-neutrality-in-europe/"><strong>Net neutrality in Europe</strong></a> (Englisch)</li>
 				<li>Online: <a href="http://futurezone.at/netzpolitik/15944-internet-drosselungen-bald-auch-in-oesterreich.php"><strong>Internet-Drosselungen bald auch in Österreich?</strong></a> in Futurezone (21. Mai 2013)</li>
 				<li>Radio: <a href="http://oe1.orf.at/programm/337591"><strong>Zwei-Klassen-Internet auch in Österreich möglich </strong></a> in Ö1 Help (18. Mai 2013) <a href="http://socialhack.eu/uploads/media-archive/OE1_HEL130518_HP.mp3">mp3 hier</a> </li>
 				<li>Radio: <a href="http://oe1.orf.at/programm/337583"><strong>Zwei-Klassen-Internet auch in Österreich möglich </strong></a> in Ö1 Morgenjournal (18. Mai 2013) <a href="http://socialhack.eu/uploads/media-archive/oe1_journal_drosselkom_2013-05-18.mp3">mp3 hier</a> </li>
@@ -74,6 +76,13 @@
 				<li>Online: <a href="http://www.spiegel.de/thema/netzneutralitaet/"><strong>spiegel.de</strong></a> - Artikelsammlung</li>
 				<li>Radio: <a href="http://www.fro.at/article.php?id=5354"><strong>Netzneutralit&auml;t: Sind alle Bits gleich?</strong></a> mit Tassilo Pellegrini</li>
 			</ul>	
+
+			<h3>Hintergrund Papers</h3>
+			<ul class="nolist">
+				<li><a href="http://berec.europa.eu/eng/document_register/subject_matter/berec/regulatory_best_practices/guidelines/?doc=1101"><strong>BEREC Guidelines for quality of service in the scope of net neutrality</strong></a></li>
+				<li><a href="http://berec.europa.eu/files/document_register_store/2012/11/BoR(12)120rev.1_BEREC_Statement_on_ITR_2012.11.14.pdf"><strong>BEREC als Antwort auf den ETNO Vorstoß für Diensteklassen und "Sending Party Networks Pays"</strong></a></li>
+			</ul>	
+
 
 		</div>
 <?php include('../includes/footer.php'); ?>
