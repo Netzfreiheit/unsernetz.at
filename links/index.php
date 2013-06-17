@@ -27,6 +27,7 @@
 				
 		<h3>Vortr&auml;ge</h3>
 			<ul class="nolist">
+				<li><a href="http://cba.fro.at/111603"><strong>Paneldiskussion zur Netzneutralität</strong></a> im Rahmen des EU XXL Forums mit Maximilian Schubert (ISPA), Philip Sander (RTR), Gerhard Loub (ÖVP), Marco Schreuder (Grüne), Daphne van der Kroes (Bits of Freedom) und Thomas Lohninger (Initiative für Netzfreiheit)</li>
 				<li><a href="http://www.netzkinder.at/netzneutralitat-uber-die-unteilbarkeit-des-internets/"><strong>Vortrag: zur Netzneutralit&auml;t und dieser Kampagne</strong></a> von Thomas Lohninger auf der #DNP12 Konferenz</li>
 				<li><a href="https://www.youtube.com/watch?v=MQAK38KCjfY"><strong>re:publica 2013: Net Neutrality</strong></a> - Ben Scott, Hannah Seiffert, Markus Beckedahl</li>
 			</ul>	
