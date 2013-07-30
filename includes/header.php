@@ -2,8 +2,13 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" charset="utf-8">
+	<meta charset="UTF-8">
 	<title>Unser Netz - Netzneutralit&auml;t</title>
-	<link rel="icon" type="image/png" href="/favicon.ico" />
+	<meta name="description" content="Für die gesetzliche Verankerung der Netzneutralität in Österreich">
+  <meta name="author" content="Initiative für Netzfreiheit">
+  <meta name="keywords" content="Netzneutralität, unsernetz, echtesnetz, drosselkom, Hannes Ametsreiter, Neelie Kroes, Gleichberechtigung, Teilhabe, Transparenz, ISP, RTR, ISPA, IFNF, Netzfreiheit, Neutralität, Österreich, Internetneutralität, Plattformneutralität, Neutralitätsdebatte">
+  <meta name="date" content="20013-07-30T03:05:07+02:00">
+  <link rel="icon" type="image/png" href="/favicon.ico" />
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
 	<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
 	<script type="text/javascript" src="/js/teasers.js"></script>
