@@ -1,9 +1,31 @@
+<?php
+	function getTitle () {
+		try {
+			if (strpos($_SERVER["REQUEST_URI"], 'netzneutralitaet')) {
+				return "Definition | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'argumente')) {
+				return "Argumente | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'dokumente')) {
+				return "Dokumente | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'links')) {
+				return "Ressourcen | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'kontakt')) {
+				return "Kontakt | Unser Netz";
+			} else {
+				return "Unser Netz - Netzneutralit&auml;t";	
+			}
+		} catch (Exception $e) {
+			return "Unser Netz - Netzneutralit&auml;t";
+		}
+	}
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" charset="utf-8">
 	<meta charset="UTF-8">
-	<title>Unser Netz - Netzneutralit&auml;t</title>
+	<title><?php echo getTitle() ?></title>
 	<meta name="description" content="Für die gesetzliche Verankerung der Netzneutralität in Österreich">
   <meta name="author" content="Initiative für Netzfreiheit">
   <meta name="keywords" content="Netzneutralität, unsernetz, echtesnetz, drosselkom, Hannes Ametsreiter, Neelie Kroes, Gleichberechtigung, Teilhabe, Transparenz, ISP, RTR, ISPA, IFNF, Netzfreiheit, Neutralität, Österreich, Internetneutralität, Plattformneutralität, Neutralitätsdebatte">
