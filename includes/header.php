@@ -45,9 +45,7 @@
 						<li><a href="/netzneutralitaet/">Definition</a></li>
 						<li><a href="/argumente">Argumente</a></li>
 						<li><a href="/dokumente">Dokumente</a></li>
-						<!--<li><a href="/mitmachen">Mitmachen</a></li>-->
 						<li><a href="/links">Ressourcen</a></li>
-						<!--<li><a href="/pressespiegel">Pressespiegel</a></li>-->
 						<li><a href="/kontakt">Kontakt</a></li>
 					</ul>
 				</div>
