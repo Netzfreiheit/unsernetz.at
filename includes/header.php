@@ -7,6 +7,10 @@
 				return "Argumente | Unser Netz";
 			} else if (strpos($_SERVER["REQUEST_URI"], 'dokumente')) {
 				return "Dokumente | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'eu-lex-map')) {
+				return "Gesetze zur Netzneutralität in Europa | Unser Netz";
+			} else if (strpos($_SERVER["REQUEST_URI"], 'berec-eu-violations')) {
+				return "Statistik zur Verletzung von Netzneutralität | Unser Netz";
 			} else if (strpos($_SERVER["REQUEST_URI"], 'links')) {
 				return "Ressourcen | Unser Netz";
 			} else if (strpos($_SERVER["REQUEST_URI"], 'kontakt')) {
